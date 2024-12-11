@@ -1,2 +1,2 @@
 # penguin3D
-Computer Graphics assignment - 3D penguin
+Computer Graphics project - 3D penguin
